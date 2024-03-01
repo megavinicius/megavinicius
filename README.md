@@ -1,4 +1,5 @@
-## Bem-vindo(a) 😁
+## Bem-vindo(a)! 😁
+## Welcome! 😁
 
  <div>
    <a href="https://github.com/megavinicius">
@@ -14,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Contatos 📲
  
 <div> 
   
